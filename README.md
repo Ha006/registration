@@ -3,7 +3,7 @@ registration
 
 Static input fields you may want to use on your site
 
-=== Fields ===
+### Fields
 
 * Billing information
 * Country
