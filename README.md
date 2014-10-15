@@ -1,4 +1,4 @@
 registration
 ============
 
-Static input fields you sometimes want to have
+Static input fields you may want to use on your site
